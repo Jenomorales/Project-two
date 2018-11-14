@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9A2EAA98-A8CD-4AAA-BFFA-BCC7F3B2E716",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D577B359-DEAE-47F6-B5DB-59A8ABA04233",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AED55532-23EA-4D1A-80AF-275157017D05",
+    "height": 35,
+    "width": 64,
+    "x": 941,
+    "y": 1266.2568359375
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5162529b81ab3a5923f4f14f8d4cf73ed927b5da.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "youtube-logo-png-picture-13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F17B59B-CB11-4059-BD46-6E3D5D41CAEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C4ED0F30-3B72-4737-96D7-EDF2A39D0F73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "704D486D-B6D0-455E-BE0A-20964C176B57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E60CDEF-307A-4C69-940E-CB4EF5912B5B",
+    "height": 54,
+    "width": 84,
+    "x": 472,
+    "y": 18
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms/textlinks",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6E455C7-4D59-4B92-80D3-1748DE1DE083",
+      "overrideName": "EE16DA8C-7853-496A-9167-DFA6DDBD3FF8_stringValue",
+      "value": "About"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18ACA1C2-B390-4C05-B165-41F929CFD15B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "288335BD-A02E-4885-8195-EA16C2A66662",
+  "verticalSpacing": 0
+}

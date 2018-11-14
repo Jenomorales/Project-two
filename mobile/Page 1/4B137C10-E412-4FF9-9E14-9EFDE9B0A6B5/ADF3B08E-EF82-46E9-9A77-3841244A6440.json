@@ -1,0 +1,107 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8313725490196078,
+            "green": 0.8313725490196078,
+            "red": 0.8313725490196078
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Avenir-Book",
+              "size": 5
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "paragraphSpacing": 5.5
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 275,
+        "location": 0
+      }
+    ],
+    "string": "About EWU               Site Map                     EWU Foundation\nVisit                           EWUDiversity.             EagleNET\nEWU Libraries           Jobs                            Campus Locations\nCanvas                      Administration.           Accessibility"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "ADF3B08E-EF82-46E9-9A77-3841244A6440",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BCA0E0AC-BBE0-49DB-AB04-99F0C8171926",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB986817-7B67-4B02-A332-6B00E96490DE",
+    "height": 43,
+    "width": 154,
+    "x": 179,
+    "y": 1241
+  },
+  "glyphBounds": "{{-1, 1}, {138, 43}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "About EWU Site Map E",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55369B21-DEBE-4C38-9C02-DABB918771E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "3285040E-69F1-443A-84CE-D76F0CDEC112",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8313725490196078,
+          "green": 0.8313725490196078,
+          "red": 0.8313725490196078
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Avenir-Book",
+            "size": 5
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "paragraphSpacing": 5.5
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

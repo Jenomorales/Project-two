@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "AB3D34B9-5622-4179-A646-24E6817E673B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB07E8C1-01A1-4F91-B78E-B7403E8F6672",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABD9DAD0-7D7B-4E48-856C-ED97BDCE144A",
+    "height": 54,
+    "width": 67,
+    "x": 845,
+    "y": 18
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms/textlinks copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B920141-5605-4F71-9217-20C7D42F0091",
+      "overrideName": "EE16DA8C-7853-496A-9167-DFA6DDBD3FF8_stringValue",
+      "value": "Faculty"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4006A69-C2C0-4C99-92BA-80ECB3A1EBED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "288335BD-A02E-4885-8195-EA16C2A66662",
+  "verticalSpacing": 0
+}

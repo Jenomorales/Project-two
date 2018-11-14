@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8D07BDAF-0D11-463E-9F9A-3B493A36A135",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BBDDFEB8-33E0-47E6-B469-3F88CD6B3B82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F659DD4F-9567-4733-B3EA-A8CAA74B9903",
+    "height": 54,
+    "width": 67,
+    "x": 548,
+    "y": 18
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atoms/textlinks",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95457142-E12B-4C92-B033-AABDD5369E7D",
+      "overrideName": "EE16DA8C-7853-496A-9167-DFA6DDBD3FF8_stringValue",
+      "value": "Programs"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1BC7E55F-18DD-4EFF-A4EB-B996BC0D7AE8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "288335BD-A02E-4885-8195-EA16C2A66662",
+  "verticalSpacing": 0
+}

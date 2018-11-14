@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "1A8D3F80-53F7-46AC-8983-CB12138A84B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BE343D0-5300-42D8-88C6-6B0F53AF1BAF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3568B4C6-8756-4026-9AE8-41DC68D512D2",
+    "height": 41,
+    "width": 41,
+    "x": 839,
+    "y": 1262.2568359375
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b984ef1bd5f0a540a06f7aa59f506ffbc14e6a91.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Twitterbird",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2E86152-A9D7-4FC7-99DF-2FE21828784A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

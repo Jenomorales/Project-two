@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C66F3649-8F79-4558-8E90-F9B752BA25AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29166BC2-F13F-4279-8EA8-088518CF36EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2D26B84D-4A63-459A-A2DB-ABF7A9F064C4",
+    "height": 63,
+    "width": 84,
+    "x": -8,
+    "y": 4
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ccbc4aa232fa71e6e22baba4bed1b75b612641fc.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ewueagle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0C70C6C-ADA1-414F-8596-F026A3A30E1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

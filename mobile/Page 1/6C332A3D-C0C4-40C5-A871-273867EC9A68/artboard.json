@@ -1,0 +1,203 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "6C332A3D-C0C4-40C5-A871-273867EC9A68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1244.598326359833,
+    "width": 375.0000000000001,
+    "x": 175,
+    "y": -1
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "17FA8D5D-B047-41C5-AA37-049E99F9B3FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92595DF8-5AA5-42EE-9C59-895BB4C32273"
+    },
+    {
+      "class": "text",
+      "id": "98B49242-C5EA-477C-B0E2-9BAD424FE510"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "520E672C-AA84-4185-9210-CF2810944AE6"
+    },
+    {
+      "class": "bitmap",
+      "id": "927734FD-C5CC-42DA-9E97-AA01F328FB8C"
+    },
+    {
+      "class": "bitmap",
+      "id": "436B056D-B5D1-42D2-8DEE-EF8D7A421E3A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "534DB87B-0ACA-4330-B97B-F60674485EED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "731AC2DD-42AA-4A4B-9B0B-ABD210B5B7D4"
+    },
+    {
+      "class": "text",
+      "id": "648849B6-54CF-439F-AE2C-F28FA0A8BEA0"
+    },
+    {
+      "class": "text",
+      "id": "C3E379F5-D2C3-41DF-B3EC-2CDC004C1372"
+    },
+    {
+      "class": "text",
+      "id": "6BECAF0E-F328-4776-A354-07B0F31D831A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE4F2C3D-A5DA-4444-8170-5E7C8679E874"
+    },
+    {
+      "class": "text",
+      "id": "CACF27B0-D803-4E03-9235-714602AE37EB"
+    },
+    {
+      "class": "text",
+      "id": "076CCE01-3329-4D5B-9075-E5DB09B0698B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3668646C-1D80-47F5-8DAD-10CA805E912E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEE2A835-A762-4729-9CE7-FA2CBD6D85AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E474BFCE-8FA7-43B9-9167-F0FA93B45B2F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "55D55969-1712-4A57-A978-FA368BF98D82"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0156DD5-DF25-4DC7-A022-865E16575529"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31808E1D-A665-4E38-B45F-3C83629B6BB9"
+    },
+    {
+      "class": "text",
+      "id": "8D1709CA-0914-4B49-AF36-6AACB5C8F109"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B071655C-30AA-4ABD-BAE6-D4010D108BD7"
+    },
+    {
+      "class": "text",
+      "id": "84894E09-3E26-40E5-B69F-B23F42A3B746"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1609AC0C-624B-42F0-ADD2-C738E6BF5082"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C4B7813-5308-4A0F-A984-5DB1F490F2CB"
+    },
+    {
+      "class": "bitmap",
+      "id": "A2F056B9-6CC6-4B9D-8986-E868A0E7ACB6"
+    },
+    {
+      "class": "text",
+      "id": "A2603CCF-488D-4A93-8D12-F9BF27EE401A"
+    },
+    {
+      "class": "text",
+      "id": "203F6E59-1F96-42FC-9239-552541A54AA4"
+    },
+    {
+      "class": "bitmap",
+      "id": "A4D2E6D1-D090-4507-89CE-5E9B8CE674A5"
+    },
+    {
+      "class": "bitmap",
+      "id": "DCC4A0F0-A908-4A2B-B47F-186D6B6AE23A"
+    },
+    {
+      "class": "bitmap",
+      "id": "C9B8C8A2-BEEC-4FDE-A08F-3217DD67E132"
+    },
+    {
+      "class": "bitmap",
+      "id": "8366EE94-1C1E-47DC-8983-5B98A88F0ABC"
+    }
+  ],
+  "name": "About",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

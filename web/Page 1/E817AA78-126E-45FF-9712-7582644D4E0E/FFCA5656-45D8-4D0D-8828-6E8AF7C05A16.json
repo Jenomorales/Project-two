@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "FFCA5656-45D8-4D0D-8828-6E8AF7C05A16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFDBBCC0-7218-47E5-9C95-6BA9AE766243",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "22815CF5-99FC-4141-859E-D8EF03E5260A",
+    "height": 45,
+    "width": 45,
+    "x": 895,
+    "y": 1261
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/982f01e56b98d01f7d674b99c326e5e4b8968c8f.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "instagram-Logo-PNG-Transparent-Background-download-768x768",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73AC3BBE-4391-41A9-A7E8-B0B8E636BBBF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
